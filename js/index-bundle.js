@@ -244,7 +244,7 @@
 	
 	// Initialize Facebook SDK
 	FB.init({
-	  appId: ("184165962353417"), // App ID comes from environment at *build* time.  See README.md and webpack.config.js.
+	  appId: ("1451821121596151"), // App ID comes from environment at *build* time.  See README.md and webpack.config.js.
 	  version: 'v2.12',
 	  status: true
 	});
